@@ -1,1 +1,1 @@
-# cfn-lambda-container-sample
+# CloudFormationのサンプル（Lambda）
