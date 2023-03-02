@@ -1,0 +1,1 @@
+# cfn-lambda-container-sample
