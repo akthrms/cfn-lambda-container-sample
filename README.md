@@ -19,7 +19,7 @@ $ docker push <ID>.dkr.ecr.ap-northeast-1.amazonaws.com/akthrms/go-lambda-sample
 $ docker run -p 9000:8080 akthrms/go-lambda-sample
 
 $ curl -XPOST "http://localhost:9000/2015-03-31/functions/function/invocations" -d '{}'
-"Hello, Golang!"
+"Hello, Golang!!"
 ```
 
 ## スタック作成
