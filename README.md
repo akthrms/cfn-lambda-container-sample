@@ -13,7 +13,7 @@ $ docker tag akthrms/go-lambda-sample:latest <ID>.dkr.ecr.ap-northeast-1.amazona
 $ docker push <ID>.dkr.ecr.ap-northeast-1.amazonaws.com/akthrms/go-lambda-sample:latest
 ```
 
-## ローカル実行
+## ローカル実行（RIE）
 
 ```sh
 $ docker run -p 9000:8080 akthrms/go-lambda-sample
